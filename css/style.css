@@ -1,0 +1,33 @@
+#fundo{
+    height: 50vw;
+}
+
+#mascara{
+    position: absolute;
+    left: 60vw;
+    top: 3vw;
+    width: 10vw;
+}
+
+#virus{
+    position: absolute;
+    left: 8vw;
+    top: 95px;
+    width: 10vw;
+}
+
+#btnEsquerda{
+    color: aqua;
+    position: absolute;
+    left: 8vw;
+    top: 200px;
+    width: 10vw;
+}
+
+#btnDireita{
+    color: aqua;
+    position: absolute;
+    left: 8vw;
+    top: 300px;
+    width: 10vw;
+}
